@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+.navBar {
+  display: flex;
+  padding: 2rem;
+  background-color: #d9d9d9;
+}
+
+.navBar .home {
+  margin-right: 2rem;
+}
+.navBar .issues {
+  margin-right: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+
+a:visited {
+  color: inherit;
+}
